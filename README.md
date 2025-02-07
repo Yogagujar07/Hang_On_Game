@@ -1,5 +1,3 @@
-# Hangman Game in ReactJS Guide
-
 ## Open the Project
 1. Open the project folder in your VS Code.
 
